@@ -1,8 +1,12 @@
 
 
 @media screen and (max-width: 768px) {
+    .hero {
+        margin-top: 15%;
+    }
+
     .history {
-        padding-top: 40%;
+        padding-top: 35%;
     }
 
 }
