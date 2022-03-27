@@ -9,4 +9,7 @@
         padding-top: 35%;
     }
 
+    .card {
+        border: none;
+    }
 }
