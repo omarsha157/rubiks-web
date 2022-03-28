@@ -2,6 +2,8 @@
 
 .logo-text {
     font-family: 'Pacifico', cursive;
+    text-decoration: none;
+    color: black;
 }
 
 .history {
