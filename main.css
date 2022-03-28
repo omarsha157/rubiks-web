@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.logo-text {
+    font-family: 'Pacifico', cursive;
+}
+
+.history {
+    padding-top: 15%;
+}
+
 
 .i-container {
     position: relative;
